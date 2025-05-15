@@ -4,7 +4,7 @@ A static frontend clone of the Ishqara website built using **HTML** and **CSS**.
 
 ## 🌐 Live Demo
 
-[🔗 View Live](https://parthx-23.github.io/IshqaraeClone/)
+[🔗 View Live]( https://parthx-23.github.io/ishqara/)
 
 ## 📸 Screenshots
 
